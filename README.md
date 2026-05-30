@@ -101,6 +101,10 @@ and stores scan results and a generated report inside that directory.
 
 This tool is intended only for authorized security testing, educational use, lab environments, and systems you own or have explicit permission to assess. Do not run this script against targets without authorization.
 
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
 ## Author
 
 Jacob Hill
