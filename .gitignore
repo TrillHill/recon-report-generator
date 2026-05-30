@@ -1,0 +1,25 @@
+# Recon output directories
+*_recon/
+
+# Generated reports
+*.txt
+*.json
+
+# Logs
+*.log
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Linux temporary files
+*~
+
+# VS Code
+.vscode/
+
+# JetBrains IDEs
+.idea/
+
+# macOS
+.DS_Store
