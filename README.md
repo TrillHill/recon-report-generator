@@ -102,7 +102,6 @@ and stores scan results and a generated report inside that directory.
 This tool is intended only for authorized security testing, educational use, lab environments, and systems you own or have explicit permission to assess. Do not run this script against targets without authorization.
 
 ## Author
-
 Jacob Hill
 TrillCyber
 https://trillcyber.wordpress.com
